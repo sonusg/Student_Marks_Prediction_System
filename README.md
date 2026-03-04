@@ -99,19 +99,6 @@ The project plots a **scatter graph** showing the relationship between study hou
 
 This helps visualize how **study time influences academic performance**.
 
-
-## 📌 Project Structure
-
-
-Student_Marks_Prediction
-│
-├── prediction.py
-├── score_updated.csv
-└── README.md
-
-
-
-
 ## 💡 What I Learned
 
 Through this project I learned:
